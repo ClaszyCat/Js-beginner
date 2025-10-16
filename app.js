@@ -60,17 +60,24 @@
 //   console.log("akses ditolak");
 // }
 
-const balonku = prompt("masukkan warna balonku").toLowerCase();
-switch (balonku) {
-  case "merah":
-    console.log("balon ku");
-    break;
-  case "kuning":
-    console.log("bukan balon ku");
-    break;
-  case "hijau":
-    console.log("dooor");
-    break;
-  default:
-    console.log("warna balon tidak diketahui");
-}
+// const balonku = prompt("masukkan warna balonku").toLowerCase();
+// switch (balonku) {
+//   case "merah":
+//     console.log("balon ku");
+//     break;
+//   case "kuning":
+//     console.log("bukan balon ku");
+//     break;
+//   case "hijau":
+//     console.log("dooor");
+//     break;
+//   default:
+//     console.log("warna balon tidak diketahui");
+// }
+
+// for (let i = 1; i <= 10; i ++) {
+//   console.log("hello world");
+//   console.log(i);
+// }
+
+
